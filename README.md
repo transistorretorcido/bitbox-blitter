@@ -3,4 +3,4 @@ Test blitter for bitbox, with screen inspired on Super Meat Boy.
 
 ## Screenshot from emulator
 
-[screenshot](snb.png)
+[screenshot](snb_1.png)
